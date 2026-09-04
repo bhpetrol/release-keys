@@ -1,6 +1,6 @@
 # BHPetrol release-key manifest. Signed by a root key (root/); verified by every deploy script.
 # Edit only via pull request; a root-key holder re-signs after every change and bumps the revision.
-revision: 0
+revision: 1
 updated: 2026-09-04
 #
 # fingerprint                                status   projects   holder
